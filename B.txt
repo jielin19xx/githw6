@@ -1,1 +1,1 @@
-this is file b
+Merge file B.txt in githw6 and githw6-stashing
